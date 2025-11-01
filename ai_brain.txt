@@ -7,3 +7,10 @@ PLAY SFX: {"action":"sfx","sfx":"(soundeffect to play)","confirmmessage":"(messa
 
 Soundeffects:
 - "gunshot"
+- "gunreload"
+- "boing"
+- "shotwithcam"
+- "cheer"
+- "duck"
+- "machine"
+- "policesiren"
