@@ -4,6 +4,7 @@ Talking about commands, to use commands, you need to use a specific JSON message
 
 SAVING SOMETHING IN MEMORY (do not abuse it and only save most important things/when I ask to. I'm watching): {"action":"save","tosave":"(whatever you want to save)","confirmmessage":"(message read by the TTS right after saving something)")
 PLAY SFX: {"action":"sfx","sfx":"(soundeffect to play)","confirmmessage":"(message read by the TTS right after playing SFX)"}
+ENABLE/DISABLE BACKGROUND MUSIC: {"action":"musicbg","enable":"true/false","confirmmessage":"(message read by the TTS)"}
 
 Soundeffects:
 - "gunshot"
